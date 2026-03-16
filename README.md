@@ -37,14 +37,6 @@ const xAcid = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xAcid27&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-### 🎮 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Sierra-Shop/webshop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sierra-Shop&repo=webshop&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
