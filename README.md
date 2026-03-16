@@ -15,17 +15,16 @@
 const xAcid = {
     location: "Germany 🇩🇪",
     currentFocus: "Sierra Customs",
-    languages: ["TypeScript", "Lua", "PHP", "Python"],
+    languages: ["JavaScript", "Lua", "PHP", "Python"],
     frameworks: ["React", "Laravel", "Next.js", "Tailwind CSS"],
     interests: ["FiveM Development", "Web Apps", "Automation"],
-    funFact: "I turn coffee into code ☕→💻"
 };
 ```
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,lua,php,python,react,nextjs,laravel,tailwind,nodejs,mysql,git,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,lua,php,python,react,nextjs,laravel,tailwind,nodejs,mysql,git,docker,linux&theme=dark" />
 </p>
 
 ### 📊 GitHub Stats
