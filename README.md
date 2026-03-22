@@ -30,10 +30,6 @@ const xAcid = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xAcid27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xAcid27&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
